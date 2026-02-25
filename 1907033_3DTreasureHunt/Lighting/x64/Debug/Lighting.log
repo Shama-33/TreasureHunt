@@ -1,0 +1,136 @@
+﻿  main.cpp
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphereWithTexture.h(80,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphereWithTexture.h(104,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphereWithTexture.h(105,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphereWithTexture.h(110,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\hemiWithTex.h(80,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\hemiWithTex.h(104,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\hemiWithTex.h(105,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\hemiWithTex.h(110,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\coneWithTexture.h(11,9): warning C4005: 'PI': macro redefinition
+  (compiling source file 'main.cpp')
+      E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphereWithTexture.h(11,9):
+      see previous definition of 'PI'
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\coneWithTexture.h(76,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\coneWithTexture.h(94,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\coneWithTexture.h(142,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cylinderWithTexture.h(68,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cylinderWithTexture.h(97,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cylinderWithTexture.h(153,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cylinderWithTexture.h(156,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\CurveWithTexture.h(54,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphere.h(175,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphere.h(176,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\sphere.h(178,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cone.h(97,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cone.h(139,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cylinder.h(110,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cylinder.h(181,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\cylinder.h(184,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\hemisphere.h(178,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\hemisphere.h(179,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\hemisphere.h(181,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\Halfcyl.h(66,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\Halfcyl.h(95,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\Halfcyl.h(149,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\Halfcyl.h(152,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(111,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(379,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(380,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(479,12): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(476,13): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(476,9): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(476,5): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(514,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(707,57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(738,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(738,41): warning C4244:         with
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(738,41): warning C4244:         [
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(738,41): warning C4244:             T=float
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(738,41): warning C4244:         ]
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(830,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1244,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1568,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1876,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1881,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1886,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1891,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1896,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(1901,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2157,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2157,97): warning C4101: 'modelCentered': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2157,77): warning C4101: 'scaleMatrix': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2157,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2157,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2304,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2304,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2304,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2454,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2519,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\main.cpp(2560,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  stb_image.cpp
+  Generating Code...
+  Lighting.vcxproj -> E:\Oishee\4-2\CSE 4208 Computer Graphics Laboratory\game_final_projectile\game5\1907033_3DTreasureHunt\x64\Debug\Lighting.exe
